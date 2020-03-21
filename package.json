@@ -1,0 +1,19 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "just for testing my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrirhi/libTest.git"
+  },
+  "author": "driss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrirhi/libTest/issues"
+  },
+  "homepage": "https://github.com/adrirhi/libTest#readme"
+}
