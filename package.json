@@ -1,5 +1,5 @@
 {
-  "name": "library",
+  "name": "library-to-npm",
   "version": "1.0.0",
   "description": "just for testing my first npm package",
   "main": "index.js",
