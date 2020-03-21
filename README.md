@@ -1,7 +1,7 @@
 # what is this ?
 First time creating a lib just for testing
 
-#Installation
+# Installation
 
 `npm i libTest --save`
 
