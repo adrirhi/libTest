@@ -1,1 +1,1 @@
-export default name => <h1>{"hello " + name}</h1>
+export default name => console.log("hello ", name)
